@@ -1,0 +1,2 @@
+# macchiator
+A javascript library
